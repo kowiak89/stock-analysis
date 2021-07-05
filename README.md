@@ -19,6 +19,7 @@ While knowing the highest and lowest performing stocks in a given year is useful
 ### Advantages:
 Some advanteges of refactoring code is that it allows you to improve upon the current code.  We were able to show this by timing the time it took the computer to complete the original code and refactored code.  By making the code more efficient, we are able to save time in the real world when data sets can get much larger.  Another advantage is that it allows the person refactoring the code more insight into what the original code is trying to do.  During this module, I became much more aware of what each part of the code was doing when I went through it a second time.
 
+### Disadvantages:
 A disadvantage to refactoring code might be that the original code is already efficient and trying to refactor it might make it worse.  It could make it more complicated or make the computer take longer to run it.  I did not come across this disadvantage in this assignment, but I am confident I will see it at some point in my experience.
 
 
