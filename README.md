@@ -8,3 +8,5 @@ The objective of this assignment was to refactor the code that we created to hel
 
 https://github.com/kowiak89/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
 https://github.com/kowiak89/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png
+https://github.com/kowiak89/stock-analysis/blob/main/Resources/2017%20original%20code.png
+
